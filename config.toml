@@ -4,7 +4,7 @@ title = "Alessandro Minoccheri"
 theme= "hugo-nuo"
 
 [params]
-    avatar= "media/alessandro_minoccheri.jpg"
+    avatar= "alessandro_minoccheri.jpg"
     email = "alessandro.minoccheri@gmail.com"
     github = "AlessandroMinoccheri"
     twitter = "minompi"
