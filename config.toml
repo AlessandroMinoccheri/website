@@ -20,10 +20,4 @@ theme= "hugo-nuo"
   name = "About Me"
   weight = 20
   identifier = "about-me"
-  url = "/"
-
-[[menu.main]]
-  name = "Articles"
-  weight = 30
-  identifier = "tags"
-  url = "/post/php7-2"
+  url = "/about"
