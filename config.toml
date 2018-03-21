@@ -9,3 +9,21 @@ theme= "hugo-nuo"
     github = "AlessandroMinoccheri"
     twitter = "minompi"
     linkedin = "alessandro-minoccheri-68756598"
+
+[[menu.main]]
+  name = "Home"
+  weight = 10
+  identifier = "home"
+  url = "/"
+
+[[menu.main]]
+  name = "About Me"
+  weight = 20
+  identifier = "about-me"
+  url = "/"
+
+[[menu.main]]
+  name = "Articles"
+  weight = 30
+  identifier = "tags"
+  url = "/post/php7-2"
