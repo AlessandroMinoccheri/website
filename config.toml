@@ -15,9 +15,3 @@ theme= "hugo-nuo"
   weight = 10
   identifier = "home"
   url = "/"
-
-[[menu.main]]
-  name = "About Me"
-  weight = 20
-  identifier = "about-me"
-  url = "/about"
