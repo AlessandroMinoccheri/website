@@ -4,11 +4,15 @@ title = "Alessandro Minoccheri"
 theme= "hugo-nuo"
 
 [params]
-    avatar= "img/alessandro_minoccheri.jpg"
+    avatar= "https://alessandrominoccheri.github.io/img/alessandro_minoccheri.jpg"
     email = "alessandro.minoccheri@gmail.com"
     github = "AlessandroMinoccheri"
     twitter = "minompi"
     linkedin = "alessandro-minoccheri-68756598"
+    seotitle = "Alessandro Minoccheri software web developer"
+    description = "I'm Alessandro Minoccheri a software web developer based in Ravenna, Italy."
+    googleAnalytics = "UA-116543754-1"
+    googleSiteVerification = "GZsV12xJYp9V0PX9-GoJgG2SjrVjkps0IP4rMGTpzoE"
 
 [[menu.main]]
   name = "Home"
