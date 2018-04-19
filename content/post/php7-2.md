@@ -116,7 +116,7 @@ class bar implements foo
 }
 ```
 
-This new feature allows to update parent classes without updating all its subclasses.
+This new feature allows to update parent classes without updating all their subclasses.
 
 Probably this is a marginal improvement  (it will never be used so frequently).
 
