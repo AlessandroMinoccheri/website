@@ -61,7 +61,7 @@ The web root directory where are stored public and static files like images, sty
 ## Environment Variables
 
 When designing your system, you may wish to have different variables that can be not the same as in other environments.
-In previous symfony versions you put that variables into a file called **parameters.yml** and in parameters.yml.yourenv. Now that file doesn't exist (you can obviously change your code to use it but it's a little bit complex) and you need to write those variables in a file called .env in the project root.
+In previous Symfony versions you put that variables into a file called **parameters.yml** and in parameters.yml.yourenv. Now that file doesn't exist (you can obviously change your code to use it but it's a little bit complex) and you need to write those variables in a file called .env in the project root.
 Obviously you can have different .env files but it depends on how many environments you have into your application.
 Here is a simple **.env** file:
 
@@ -95,9 +95,9 @@ Remember that Symfony Dotenv never overwrites existing environment variables.
 
 ## Autowiring
 
-**Autowiring** is one of the most powerful feature in Symfony 4 (you can use it since symfony 3.3 version).
+**Autowiring** is one of the most powerful feature in Symfony 4 (you can use it since Symfony 3.3 version).
 It allows you to manage services in the container with minimal configuration, without specifying, for example, all the arguments that have to be passed to your service (now also controllers are services!).
-So if you have a service class where you need to pass into __construct method some other services you only need to enable autowiring and symfony will do it for you!
+So if you have a service class where you need to pass into __construct method some other services you only need to enable autowiring and Symfony will do it for you!
 
 Example:
 
@@ -157,8 +157,8 @@ services:
         public: false
 ```
 
-So the Autowire option indicates to symfony to automatically inject dependencies in your services.
-Autoconfigure option indicates to symfony to automatically register your services as commands, event subscribers, etc.
+So the Autowire option indicates to Symfony to automatically inject dependencies in your services.
+Autoconfigure option indicates to Symfony to automatically register your services as commands, event subscribers, etc.
 
 Now also controllers are services so it's easy to make unit tests on it instead of using integration tests that are slower.
 So now you can also inject services inside your controller like this:
@@ -227,7 +227,7 @@ When using the message bus with **Symfony's FrameworkBundle**, the following mid
 
 Once the message is dispatched to the bus it will be handled by a "message handler".
 A message handler is a PHP callable (i.e. a function or an instance of a class) that will do the required processing for your message.
-In order to send and receive messages, you will have to configure an adapter. An adapter will be responsible for communicating with your message broker or 3rd parties.
+In order to send and receive messages, you will have to configure the adapter. The adapter will be responsible for communicating with your message broker or 3rd parties.
 Then the receiver Receiver deserializes and forwards the message to the handler(s). This can be a message queue puller or an API endpoint.
 
 For further information contact me or follow  me on:
