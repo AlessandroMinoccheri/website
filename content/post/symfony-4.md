@@ -1,13 +1,7 @@
 ---
-title: "Symfony 4"
+title: "Symfony 4 Installation and new features"
 date: 2018-05-18T14:42:37+02:00
 draft: false
----
-
----
-title: "Symfony 4 Installation and new features"
-date: 2018-05-18T14:19:20+01:00
-draft: true
 ---
 
 **Symfony 4** is the newest version of the one of the most famous php frameworks.
