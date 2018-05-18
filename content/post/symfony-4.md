@@ -37,7 +37,7 @@ The application configuration, templates and translations, where you can find th
 **bin/**
 Executable files (e.g. bin/console).
 
-**src**
+**src/**
 The project's PHP code, where you have controllers, views and entities directories.
 In this folder there isn't a main bundle because Symfony 4's idea is to have a single project instead of more packages in a project.
 
