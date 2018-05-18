@@ -21,7 +21,11 @@ composer create-project symfony/website-skeleton my-project
 
 This is the command for traditional web applications that downloads a base skeleton of a Symfony project with a ready to start default configuration.
 If you are building microservices, console applications or APIs, consider using the much simpler skeleton project.
+
+```
 composer create-project symfony/skeleton my-project
+```
+
 In this version there aren't bundles installed so it's smaller.
 
 
