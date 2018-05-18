@@ -196,7 +196,7 @@ Inside this site [Symfony](https://symfony.sh/) you can view the recipes complet
 Sometimes there is an alias so you can use it like this one to be faster and to remember the command easier:
 
 ```
-composere require logger
+composer require logger
 ```
 
 A recipe contains a **manifest.json** file where the package configuration is stored. When Flex installs this package it gets the manifest.json file and applies default configuration to your project, so you can use the new library immediately without writing any configuration.
