@@ -4,10 +4,10 @@ date: 2018-05-18T14:42:37+02:00
 draft: false
 ---
 
-**Symfony 4** is the newest version of the one of the most famous php frameworks.
+**Symfony 4** is the newest version of the one of the most famous PHP frameworks.
 It has been released on the 30th of November 2017 and it's having a great success!
 One of the biggest difference with the older versions is the presence of very small dependencies installed when you init your Symfony 4 project.
-The framework is so tiny that the [Silex](https://silex.symfony.com/) project has been dismissed because as it was a little version of the framework in Symfony 4 now it's even smaller so you don't need it.
+Symfony 4 is so tiny that [Silex](https://silex.symfony.com/) project has been dismissed.
 
 
 ## How to Install Symfony 4
