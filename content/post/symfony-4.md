@@ -29,7 +29,7 @@ In this version there aren't bundles installed so it's smaller.
 
 Symfony 4 has changed a bit its directory structure according to other frameworks and community requests, so now the new directory structure is:
 
-![Directory Structure Image](/static/img/symfony_folder_strcuture.jpg)
+![Directory Structure Image](https://alessandrominoccheri.github.io/img/symfony_folder_strcuture.jpg)
 
 **app/**
 The application configuration, templates and translations, where you can find the AppKernel file, the main entry point of the application configuration.
@@ -206,7 +206,7 @@ In order to install the component, you need to launch from your console:
 composer require symfony/messenger
 ```
 
-![Directory Structure Image](/static/img/symfony_messenger_component.jpg)
+![Messenger Component](https://alessandrominoccheri.github.io/img/symfony_messenger_component.jpg)
 
 ### How does it work?
 
