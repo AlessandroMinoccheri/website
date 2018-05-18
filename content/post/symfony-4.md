@@ -181,6 +181,7 @@ Flex keeps track of the recipes it installed in a **symfony.lock** file, which m
 Recipes are stored in two different github repositories:
 
 * [Recipe](https://github.com/symfony/recipes), is a curated list of recipes for high quality and maintained packages. Symfony Flex looks into this repository by default.
+
 * [Recipes-Contrib](https://github.com/symfony/recipes-contrib), contains all the recipes created by the community. All of them are guaranteed to work, but their associated packages could be unmaintained. Symfony Flex ignores these recipes by default, but you can execute this command to start using them in your project:
 
 ```
@@ -213,8 +214,11 @@ composer require symfony/messenger
 Sender serializes and sends a message to something. For example this something can be a message broker or a third party API.
 The bus dispatches the message. The behaviour of the bus is in its ordered middleware stack. The component comes with a set of middleware that you can use.
 When using the message bus with **Symfony's FrameworkBundle**, the following middleware are configured for you:
+
 **LoggingMiddleware** (logs the processing of your messages)
+
 **SendMessageMiddleware** (enables asynchronous processing)
+
 **HandleMessageMiddleware** (calls the registered handle)
 
 Once the message is dispatched to the bus it will be handled by a "message handler".
