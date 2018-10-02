@@ -1,7 +1,7 @@
 ---
 title: "Using Bitbucket Private Repository in Your Projects"
 date: 2018-10-02T08:58:31+02:00
-draft: true
+draft: false
 ---
 
 Many times you may like to use your personal private library in another project.
