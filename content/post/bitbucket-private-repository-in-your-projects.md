@@ -10,12 +10,15 @@ You can use Packagist and pay to have a private repository or you can use Bitbuc
 
 To include your private Bitbucket repository via Composer you need to add this lines into your composer.json:
 
+
+```
 "repositories":[
      {
          "type": "vcs",
          "url" : "git@bitbucket.org:yourName/yourRepository.git"
      }
  ]
+ ```
 
  VCS stands for version control system. This includes versioning systems like git, svn, fossil or hg. Composer has a repository type for installing packages from these systems.
 
