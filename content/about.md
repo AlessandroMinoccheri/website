@@ -7,7 +7,7 @@ menu: "main"
 weight: 50
 ---
 
-Hi! My name's Alessandro Minoccheri and I'm a software web developer for [Flowing](https://www.flowing.it/) living near Ravenna, Italy.  
+Hi! My name's Alessandro Minoccheri and I'm a software developer for [Flowing](https://www.flowing.it/) living near Ravenna, Italy.  
 I typically work with backend **PHP** and **Node.js** applications and I love to contribute to open-source PHP projects.  
 I also love to contribute to [Stack Overflow](https://stackoverflow.com/users/1427138/alessandro-minoccheri) where my reputation is growing daily (actually near 25.000)!  
 
