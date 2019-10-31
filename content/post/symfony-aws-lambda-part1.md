@@ -3,7 +3,7 @@ title: "Symfony + AWS Lambda Part1"
 author: "Alessandro Minoccheri"
 tags: ["tagA", "tagB"]
 date: 2019-10-31T08:11:25+01:00
-draft: true
+draft: false
 ---
 
 Symfony is one of the most used frameworks in the PHP world.
