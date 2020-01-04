@@ -1,7 +1,7 @@
 ---
 title: "Symfony + AWS Lambda Part1"
 author: "Alessandro Minoccheri"
-tags: ["tagA", "tagB"]
+tags: ["symfony", "lambda", "aws", "serverless", "php"]
 date: 2019-10-31T08:11:25+01:00
 draft: false
 ---
