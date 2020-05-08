@@ -4,6 +4,7 @@ author: "Alessandro Minoccheri"
 tags: ["symfony", "serverless", "lambda", "php", "aws"]
 date: 2020-01-04T14:30:39+01:00
 draft: false 
+type: post
 ---
 
 In the [previous article](https://medium.com/flowingis/deploy-a-symfony-application-with-aws-lambda-quick-guide-65430c0edda5),  I have explained a basic guideline to deploy your Symfony application into AWS Lambda.

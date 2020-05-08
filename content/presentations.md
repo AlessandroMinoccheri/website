@@ -1,10 +1,9 @@
 ---
 title: "Presentations"
-date: 2020-05-08T22:17:36+02:00
+date: 2010-05-08T22:17:36+02:00
 draft: false
 layout: "about"
 menu: "main"
-weight: 60
 ---
 
 ## Symfony + AWS Lambda - sfday 2019
