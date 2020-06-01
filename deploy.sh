@@ -3,7 +3,7 @@
 echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 
 # Build the project.
-hugo -t anubis # if using a theme, replace with `hugo -t hugo-nuo`
+hugo -t  # if using a theme, replace with `hugo -t hugo-nuo`
 
 # Go To Public folder
 cd public
@@ -18,7 +18,7 @@ fi
 git commit -m "$msg"
 
 # Push source and build repos.
-git push origin -f master
+git push origin master
 
 # Come Back up to the Project Root
 cd ..
