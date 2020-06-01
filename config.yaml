@@ -23,5 +23,5 @@ params:
   author: "Alessandro Minoccheri"
   description: "Alessandro Minoccheri software developer"
   customCSS:
-    - css/style.css # relative path to "static" directory
+    - ../css/style.css # relative path to "static" directory
   dateFormat: "2006-01-02"
