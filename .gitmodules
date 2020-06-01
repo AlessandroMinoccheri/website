@@ -1,3 +1,6 @@
 [submodule "themes/anubis"]
 	path = themes/anubis
 	url = https://github.com/mitrichius/hugo-theme-anubis.git
+[submodule "public"]
+	path = public
+	url = git@github.com:AlessandroMinoccheri/alessandrominoccheri.github.io.git
