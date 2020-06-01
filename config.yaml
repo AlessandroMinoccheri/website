@@ -1,0 +1,29 @@
+languageCode: "en-us"
+baseUrl: ""
+title: "Alessandro Minoccheri"
+theme: "anubis"
+paginate: 10
+googleAnalytics: UA-116543754-1
+
+menu:
+  main:
+    - identifier: archive
+      name: Posts
+      title: Posts
+      url: /posts/
+      weight: 1
+    - identifier: tags
+      name: Videos
+      title: Videos
+      url: /videos/
+      weight: 2
+
+
+params:
+  author: "Alessandro Minoccheri"
+  description: "Alessandro Minoccheri software developer"
+  images:
+    - images/og-featured.png # relative path to "static" directory
+  customCSS:
+    - css/my.css # relative path to "static" directory
+  dateFormat: "2006-01-02"
