@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>php on Alessandro Minoccheri</title>
+    <link>/tags/php/</link>
+    <description>Alessandro Minoccheri (php)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 29 Jan 2021 16:40:59 +0100</lastBuildDate>
+    
+    <atom:link href="/tags/php/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Deploy on Friday without fear</title>
+      <link>/post/deployonfriday/</link>
+      <pubDate>Fri, 29 Jan 2021 16:40:59 +0100</pubDate>
+      
+      <guid>/post/deployonfriday/</guid>
+      <description>&lt;p&gt;I have heard a lot of times: &amp;ldquo;Don&amp;rsquo;t deploy on Friday!&amp;rdquo;
+Well, I understand why, but I disagree with 99% of the cases.
+To understand my point of view, I would like to share some concepts about software&amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://medium.com/flowingis/why-you-should-deploy-on-friday-without-fear-80a26d3c17c1&#34;&gt;Why you should deploy on Friday without fear&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Symfony and Hexagonal Architecture</title>
+      <link>/post/symfony-hexagonal-architecture/</link>
+      <pubDate>Mon, 07 Dec 2020 06:02:11 +0100</pubDate>
+      
+      <guid>/post/symfony-hexagonal-architecture/</guid>
+      <description>&lt;p&gt;I have been working on many Symfony projects in my career and one of the most common problems where customers call our company is that their software is blocked in the old framework version, or they are not maintainable because it costs a lot to find and fix bugs.&lt;/p&gt;
+&lt;p&gt;In this article, I will share my experience with Hexagonal architecture with Symfony to improve your projects and how to create maintainable software.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://minompi.medium.com/symfony-and-hexagonal-architecture-b3c4704e94de&#34;&gt;Symfony and Hexagonal Architecture&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Symfony &#43; Aws Lambda Part2</title>
+      <link>/post/symfony-aws-lambda-part2/</link>
+      <pubDate>Sat, 04 Jan 2020 14:30:39 +0100</pubDate>
+      
+      <guid>/post/symfony-aws-lambda-part2/</guid>
+      <description>&lt;p&gt;In the &lt;a href=&#34;https://medium.com/flowingis/deploy-a-symfony-application-with-aws-lambda-quick-guide-65430c0edda5&#34;&gt;previous article&lt;/a&gt;,  I have explained a basic guideline to deploy your Symfony application into AWS Lambda.
+Now it&amp;rsquo;s time to understand deeply how does it work&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://medium.com/flowingis/deploy-a-symfony-application-with-aws-lambda-in-depth-analysis-on-advanced-use-3ad271049b93&#34;&gt;Symfony AWS Lambda Part 2&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Symfony &#43; AWS Lambda Part1</title>
+      <link>/post/symfony-aws-lambda-part1/</link>
+      <pubDate>Thu, 31 Oct 2019 08:11:25 +0100</pubDate>
+      
+      <guid>/post/symfony-aws-lambda-part1/</guid>
+      <description>&lt;p&gt;Symfony is one of the most used frameworks in the PHP world.
+Nowadays talking about serverless is common, so it&amp;rsquo;s very important to know how to use Symfony with this technology.
+In the following article, I have described how to deploy a Symfony application to AWS Lambda using Bref.
+This is the first part, the second part will be posted very soon!
+Stay tuned!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://medium.com/flowingis/deploy-a-symfony-application-with-aws-lambda-quick-guide-65430c0edda5&#34;&gt;Symfony AWS Lambda Part 1&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
