@@ -29,6 +29,11 @@ rm -rf alessandrominoccheri.github.io
 git rm -r --cached alessandrominoccheri.github.io
 rm -rf public
 git rm -r --cached public
+git rm -r --cached .git/modules/public
 git submodule add https://github.com/AlessandroMinoccheri/alessandrominoccheri.github.io public
 
 ```
+
+If you have problems with authentication on deploy you can regenerate a new token from git->Settings->DeveloperSettings and regenerate a new token.
+Use that for password when you deploy.
+
