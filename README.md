@@ -16,3 +16,19 @@ To deploy launch from website repository
 ```
 ./deploy.sh
 ```
+
+## Install from zero
+
+Remove inside `.git/config` submodules if already exists.
+Remove folder `.git/modules/*` if already exists.
+
+Launch:
+
+```
+rm -rf alessandrominoccheri.github.io
+git rm -r --cached alessandrominoccheri.github.io
+rm -rf public
+git rm -r --cached public
+git submodule add https://github.com/AlessandroMinoccheri/alessandrominoccheri.github.io public
+
+```

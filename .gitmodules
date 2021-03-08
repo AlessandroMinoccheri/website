@@ -3,7 +3,7 @@
 	url = https://github.com/mitrichius/hugo-theme-anubis.git
 [submodule "public"]
 	path = public
-	url = git@github.com:AlessandroMinoccheri/alessandrominoccheri.github.io.git
+	url = https://github.com/AlessandroMinoccheri/alessandrominoccheri.github.io
 [submodule "alessandrominoccheri.github.io"]
 	path = alessandrominoccheri.github.io
 	url = https://github.com/AlessandroMinoccheri/alessandrominoccheri.github.io
