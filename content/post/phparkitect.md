@@ -1,5 +1,5 @@
 ---
-title: "Learning a new programming language"
+title: "PHPArkitect: Put your architectural rules under test!"
 author: "Alessandro Minoccheri"
 tags: ["php", "team", "standard", "architecture"]
 date: 2022-01-01T21:10:25+02:00
