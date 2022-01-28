@@ -2,7 +2,7 @@
 title: "Recap 2021 and 2022 Goals"
 author: "Alessandro Minoccheri"
 tags: ["goals", "achievement", "improvements"]
-date: 2022-01-28T21:10:25+02:00
+date: 2022-01-28T17:59:22+01:00
 draft: false
 type: post
 ---
