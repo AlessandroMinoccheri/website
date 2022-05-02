@@ -1,3 +1,8 @@
+## Server-Sent Events
+
+[![Server-Sent Events - phpday PUG Edition ITALIAN](https://img.youtube.com/vi/LnwjVUsw0Hs/hq1.jpg)](https://www.youtube.com/watch?v=LnwjVUsw0Hs)
+
+
 ## Symfony and Hexagonal Architecture - sfday 2020
 
 [![Symfony and Hexagonal Architecture - sfday 2020](https://img.youtube.com/vi/r0ciJTQoGVA/hq1.jpg)](https://www.youtube.com/watch?v=r0ciJTQoGVA)
